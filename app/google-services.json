@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000233664162",
+    "project_id": "mynotelab",
+    "storage_bucket": "mynotelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000233664162:android:006228b5c0c20acb6a61fb",
+        "android_client_info": {
+          "package_name": "com.example.mynotelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000233664162-ab0cve3qp3ltqldf4o5k4m4e42rlbl86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcaPq2czLQqLn6rIXy73paTlr4R7xK2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000233664162-ab0cve3qp3ltqldf4o5k4m4e42rlbl86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
